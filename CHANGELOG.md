@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/alexandroreynosocesun/frontend3-week5-activity/compare/v1.0.0...v1.1.0) (2026-04-17)
+
+
+### Features
+
+* mejorar estilos de la app ([482052c](https://github.com/alexandroreynosocesun/frontend3-week5-activity/commit/482052c04848cd544d54c8cbb52f1b8bce8b30fd))
+
 # 1.0.0 (2026-04-17)
 
 
