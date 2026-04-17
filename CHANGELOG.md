@@ -1,3 +1,10 @@
+# 1.0.0 (2026-04-17)
+
+
+### Features
+
+* actualizar pagina principal ([08b806f](https://github.com/alexandroreynosocesun/frontend3-week5-activity/commit/08b806fec5f57c94170d8e31b337453c870413a9))
+
 # [1.2.0](https://github.com/JosephRangel/frontend3-week5-activity/compare/v1.1.0...v1.2.0) (2026-04-13)
 
 
